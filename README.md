@@ -1,2 +1,2 @@
 # shopcart-vue
-gouwuche's vue rebuild
+gouwuche's vue refactoring
